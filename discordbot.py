@@ -19,7 +19,7 @@ async def ping(ctx):
     
 @bot.command()
 async def usada(ctx):
-    await ctx.send('ぺこぺこぺこ')
+    await ctx.send('ぺこ')
 
 
 
