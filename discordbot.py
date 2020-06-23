@@ -18,7 +18,7 @@ async def ping(ctx):
     await ctx.send('pong')
     
 @bot.command()
-async def oiusada(ctx):
+async def usada(ctx):
     await ctx.send('草ぺこ')
 
 
